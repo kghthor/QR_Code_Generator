@@ -33,4 +33,4 @@ git clone https://github.com/kghthor/QR_Code_Generator.git
 
 
 ## Live Demo
-<a target="_blank" href="https://kghthor.github.io/QR_Code_Generator/"> Click Here </a> to see and play by yourself a demo of the game.
+<a target="_blank" href="https://kghthor.github.io/QR_Code_Generator/"> Click Here </a> to create your custom QR Code!.
