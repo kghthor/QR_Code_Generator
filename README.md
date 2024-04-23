@@ -1,6 +1,6 @@
 # QR-Code-Generator
 From this website you can generate QR-Code of any link.
-
+<img src="https://github.com/kghthor/Geography-Minigame/blob/master/game_pic.png" alt="Project preview">
 ## About The Project
 
 A simple web application which will generate a QR Code.
@@ -27,10 +27,6 @@ git clone https://github.com/kghthor/QR_Code_Generator.git
 
 - Go to the directory
 - Run the index.html file
-
-
-## Screenshots
-
 
 ## Live Demo
 <a target="_blank" href="https://kghthor.github.io/QR_Code_Generator/"> Click Here </a> to create your custom QR Code!.
