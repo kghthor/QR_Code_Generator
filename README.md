@@ -33,4 +33,3 @@ git clone https://github.com/kghthor/QR_Code_Generator.git
 
 
 ## Live Demo
-[![Stargazers repo roster for @gaurav-aditya/QR-Code-Generator](https://reporoster.com/stars/gaurav-aditya/QR-Code-Generator)](https://github.com/gaurav-aditya/QR-Code-
