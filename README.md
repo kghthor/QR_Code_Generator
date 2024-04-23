@@ -22,7 +22,7 @@ Visit Website: https://goqr.me/api/
 - Download or clone the repository
 
 ```
-git clone https://github.com/gaurav-aditya/QR Code Generator.git
+git clone https://github.com/kghthor/QR_Code_Generator.git
 ```
 
 - Go to the directory
@@ -33,5 +33,4 @@ git clone https://github.com/gaurav-aditya/QR Code Generator.git
 
 
 ## Live Demo
-[![Stargazers repo roster for @gaurav-aditya/QR-Code-Generator](https://reporoster.com/stars/gaurav-aditya/QR-Code-Generator)](https://github.com/gaurav-aditya/QR-Code-Generator/stargazers)
-[![Forkers repo roster for @gaurav-aditya/QR-Code-Generator](https://reporoster.com/forks/gaurav-aditya/QR-Code-Generator)](https://github.com/gaurav-aditya/QR-Code-Generator/network/members)
+[![Stargazers repo roster for @gaurav-aditya/QR-Code-Generator](https://reporoster.com/stars/gaurav-aditya/QR-Code-Generator)](https://github.com/gaurav-aditya/QR-Code-
