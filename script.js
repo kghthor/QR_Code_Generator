@@ -15,7 +15,7 @@ function generate() {
     shareBtn.style.display = "inline-block"; // Show share button after generating QR code
 }
 
-function toastDiv() {
+function toastDiv() { 
     toast.className = "show";
     setTimeout(function () {
         toast.className = toast.className.replace("show", "");
